@@ -1,1 +1,2 @@
-# Algorithm_IV_semester
+# Algorithm
+Algorithm practicals as per DU guidelines 2020
