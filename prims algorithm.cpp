@@ -219,7 +219,7 @@ void graph :: input()
 		int z;
 		for(int j =0;j<a;j++)
 		{
-			cout<<"\nEnter the adjacent vertice and weight of vertex "<<i+1<<" ::\t";	
+			cout<<"\nEnter the adjacent vertice of vertex "<<i+1<<" and weight of adjacent  vertex "<<j+1<<" ::\t";	
 			cin>>z>>wt;
 		
 			S[i].insertathead(z,wt);
